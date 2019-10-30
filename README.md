@@ -1,2 +1,0 @@
-# ADA
-Ejercicios Java
